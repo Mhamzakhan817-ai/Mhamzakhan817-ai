@@ -12,10 +12,10 @@ I specialize in building modern, scalable, and user-friendly applications using 
 
 I love transforming ideas into fully working real-world applications and continuously improving my skills through hands-on projects.
 
-- 🔭 Working on **Web & Mobile Applications**
-- 🌱 Improving **Backend, APIs, and Database Design**
-- 💬 Ask me about **JavaScript, React Native, MongoDB, HTML, CSS**
-- 🎓 Using **GitHub** for portfolio, academic, and professional growth
+- 🔭 Working on Web & Mobile Applications
+- 🌱 Improving Backend, APIs, and Database Design
+- 💬 Ask me about JavaScript, React Native, MongoDB, HTML, CSS
+- 🎓 Using GitHub for portfolio, academic, and professional growth
 - ⚡ Fun fact: I enjoy building full projects from scratch
 
 ---
