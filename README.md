@@ -1,11 +1,24 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Hamza;Web+Application+Developer+%26+Mobile+App+Developer;Professional+in+Python+Javascript+HTML+%7C+React-Native;Building+Real-World+Applications+that+you+will+love" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com
+    ?size=28
+    &duration=3200
+    &color=36BCF7
+    &center=true
+    &vCenter=true
+    &width=760
+    &lines=Hi+👋+I'm+Hamza;
+    Web+%26+Mobile+App+Developer;
+    JavaScript+%7C+Python+%7C+React+Native;
+    Turning+Ideas+into+Real-World+Apps"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mhamzakhan817-ai&label=Profile%20Views&color=ff69b4&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Mhamzakhan817-ai&label=Profile%20Views&color=36BCF7&style=flat" />
   <img src="https://img.shields.io/github/followers/Mhamzakhan817-ai?label=Followers&style=social" />
 </p>
+
 
 ---
 
@@ -23,15 +36,6 @@ I love transforming ideas into fully working real-world applications and continu
 - ⚡ Fun fact: I enjoy building full projects from scratch
 
 ---
-
----
-
-🛠️ **TECH STACK & SKILLS**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,expo,vscode" />
-</p>
-
 ---
 
 ## 🛠️ TECH STACK & SKILLS
@@ -62,12 +66,12 @@ I love transforming ideas into fully working real-world applications and continu
 
 ## 📱 PROJECTS & PRACTICAL WORK
 
-- ☕ **Coffee Shop App** (Frontend + Backend + MongoDB + APK)
-- 📝 **Attendance Management App** (React Native + Backend)
-- 🤝 **Skill Swap App** (Frontend – Expo Snack)
-- 🛍️ **E-Commerce Mobile App**
-- 💼 **Freelancing Activity** (Guru, Truelancer, Freelancer – 25 Bids)
-- 🛒 **Gumroad Seller Profile** (Digital App Selling)
+- ☕ Coffee Shop App(Frontend + Backend + MongoDB)
+- 📝 To-do-list App (React Native + Backend)
+- 🤝 Skill Swap App (Frontend + Expo Snack)
+- 🛍️ Top-Fabrics-Retail E-Commerce Mobile App
+- 💼 Freelancing Task (Truelancer, Freelancer, Guru – 26 Bids)
+- 🛒 Gumroad Seller Profile (Digital Platform for Products Selling)
 
 Each project includes documentation, demos, and code.
 
@@ -75,22 +79,13 @@ Each project includes documentation, demos, and code.
 
 ## 🎥 PROJECT DEMOS
 
-📺 YouTube demo videos available for:
-- Coffee Shop App
-- Attendance Management App
-- Skill Swap App
+- Coffee Shop App video
+- Skill Swap App screenshots
+- Ecommerce app video
 
 (Links are provided inside individual project repositories)
 ---
-📊 **GITHUB STATISTICS**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mhamzakhan817-ai&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mhamzakhan817-ai&theme=radical" />
-</p>
+📊 GITHUB STATISTICS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhamzakhan817-ai&layout=compact&theme=radical" />
@@ -99,21 +94,13 @@ Each project includes documentation, demos, and code.
 ---
 ---
 
-🌐 CONNECT WITH ME
-Gmail: hamzakmuhammed1325@gmail.com
-🔗 GitHub: https://github.com/Mhamzakhan817-ai  
-🛒 Gumroad: https://hamzaku.gumroad.com/l/uojje 
-
 🌐 **CONNECT WITH ME**
 
 <p align="center">
   <a href="https://github.com/Mhamzakhan817-ai">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://youtube.com">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:hamzakmuhammed1325@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -134,5 +121,5 @@ Gmail: hamzakmuhammed1325@gmail.com
 ⭐ Explore my repositories  
 🤝 Open to collaboration and learning  
 
-> *“Build projects. Learn deeply. Grow professionally.”*
+> “Build trust, Motivate yourself, Grow professionally, Be Time-Efficient...”
 
