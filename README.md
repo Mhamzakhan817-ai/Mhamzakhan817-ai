@@ -19,7 +19,7 @@
 
 ---
 
-👩‍💻 ABOUT ME
+👨‍💻 ABOUT ME
 
 Hi, I’m Hamza, a professional Web Application Developer and Mobile App Developer.  
 I specialize in building modern, scalable, and user-friendly applications using JavaScript, React Native, I also have experience in requirements analysis, design analysis, creating wireframes and blueprints through requirerments give, implementing the code, and then testing it using various test environments.
@@ -143,17 +143,17 @@ Each project includes documentation, demos, and code.
 
 🎯 CAREER GOALS
 
-🚀 Grow as a Professional Web & Mobile App Developer  
+🌟 Grow as a Professional Web & Mobile App Developer  
 📱 Build production-level applications  
 🌍 Work with real clients and teams  
 📚 Keep learning and improving every day  
 
 ---
 
-💖 THANK YOU FOR VISITING MY PROFILE
+🤍 THANK YOU FOR VISITING MY PROFILE
 
-⭐ Explore my repositories  
-🤝 Open to collaboration and learning  
+🚀 Explore my repositories
+🔥 Open to collaboration and learning 
 
 > “Build trust, Motivate yourself, Grow professionally, Be Time-Efficient...”
 
