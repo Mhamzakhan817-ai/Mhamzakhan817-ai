@@ -99,12 +99,13 @@ Each project includes documentation, demos, and code.
 ## 📊 GITHUB STATISTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mhamzakhan817-ai&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mhamzakhan817-ai&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhamzakhan817-ai&layout=compact&theme=radical&langs_count=6&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mhamzakhan817-ai&theme=radical" />
 </p>
+
 
 ---
 ---
